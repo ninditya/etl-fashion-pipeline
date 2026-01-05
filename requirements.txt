@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+pandas
+python-crontab ~= 3.2
+sqlalchemy~=2.0
+psycopg2-binary~=2.9
+google-auth ~=2.36
+google-api-python-client ~=2.152
+google-api-core >=2.0
+pytest-cov ~=6.0
